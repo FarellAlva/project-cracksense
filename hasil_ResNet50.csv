@@ -1,0 +1,2 @@
+Model,Val Acc (%),Test Acc (%),Precision,Recall,F1-Score
+ResNet50,94.37,95.69,95.72,95.76,95.72

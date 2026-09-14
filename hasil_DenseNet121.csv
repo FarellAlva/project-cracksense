@@ -1,0 +1,2 @@
+Model,Val Acc (%),Test Acc (%),Precision,Recall,F1-Score
+DenseNet121,92.64,93.97,93.97,94.06,94.00

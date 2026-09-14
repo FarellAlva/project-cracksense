@@ -1,0 +1,2 @@
+Model,Val Acc (%),Test Acc (%),Precision,Recall,F1-Score
+MobileNetV3Large,93.51,93.10,93.19,93.21,93.13

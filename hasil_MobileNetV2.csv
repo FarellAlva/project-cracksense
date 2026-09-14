@@ -1,0 +1,2 @@
+Model,Val Acc (%),Test Acc (%),Precision,Recall,F1-Score
+MobileNetV2,91.77,92.24,92.44,92.40,92.24

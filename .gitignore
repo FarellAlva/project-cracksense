@@ -1,0 +1,89 @@
+# ==========================================
+# Model Weights, Checkpoints & Export Formats
+# ==========================================
+# PyTorch
+*.pth
+*.pt
+*.ptl
+*.pwf
+
+# TensorFlow & Keras
+*.keras
+*.h5
+*.hdf5
+*.pb
+*.ckpt
+*.ckpt.*
+
+# TensorFlow Lite
+*.tflite
+
+# ONNX & Other Model Formats
+*.onnx
+*.safetensors
+*.weights
+*.engine
+*.plan
+*.bin
+
+# Model & training directories
+checkpoints/
+saved_models/
+model_weights/
+weights/
+runs/
+wandb/
+
+# Catatan: Jika model tflite pada aplikasi Flutter (CrackSense) tetap ingin di-track git,
+# hilangkan tanda '#' pada baris berikut:
+# !CrackSense/assets/models/*.tflite
+
+# ==========================================
+# Python & Environment
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================================
+# Jupyter Notebook Checkpoints
+# ==========================================
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# ==========================================
+# Operating System & IDE Files
+# ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
