@@ -1,4 +1,4 @@
-# CrackSense: Building Crack Detection & Orientation Classification
+# Building Crack Detection & Orientation Classification
 > **Hibah Penelitian 2026** — Sistem Deteksi dan Klasifikasi Orientasi Retakan Dinding/Beton Berbasis Deep Learning & Transfer Learning (*MobileNetV2, MobileNetV3Large, ResNet50, DenseNet121*).
 
 ---
